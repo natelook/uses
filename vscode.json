@@ -1,0 +1,39 @@
+{
+  "workbench.colorTheme": "Ayu One Dark Pro | Dark",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[jsx]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[php]": {
+    "editor.formatOnSave": true
+  },
+  "prettier.trailingComma": "all",
+  "prettier.singleQuote": true,
+  "editor.tabSize": 2,
+  "window.zoomLevel": 0,
+  "editor.snippetSuggestions": "none",
+  "atomKeymap.promptV3Features": true,
+  "workbench.activityBar.visible": true,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.fontFamily": "'Fira Code' , Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.packageManager": "yarn",
+  "editor.fontSize": 13,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html",
+    "razor": "html",
+    "plaintext": "pug"
+},
+"explorer.confirmDelete": false,
+"git.autofetch": true,
+"editor.minimap.enabled": false
+}
